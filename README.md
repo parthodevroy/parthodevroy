@@ -69,10 +69,7 @@ I also enjoy writing articles, teaching what I've learned, and helping developer
 
 
 
-## 🌐 **Connect With Me**
-- 📧 Email: **rpartho787e@gmail.com**  
-- 🚀 Portfolio: Coming Soon…  
-- 🔗 Facebook / LinkedIn / GitHub (add links here)  
+
 
 ---
 
@@ -89,8 +86,7 @@ I also enjoy writing articles, teaching what I've learned, and helping developer
 
 ## 🌐 **Connect With Me**
 - 📧 Email: **rpartho787e@gmail.com**  
-- 🚀 Portfolio: Coming Soon…  
-- 🔗 Facebook / LinkedIn / GitHub (add links here)  
+
 ---
 
 Thanks for visiting my profile! ⭐  
