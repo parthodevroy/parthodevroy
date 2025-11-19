@@ -85,7 +85,9 @@ I also enjoy writing articles, teaching what I've learned, and helping developer
 
 
 ## 🌐 **Connect With Me**
-- 📧 Email: **rpartho787e@gmail.com**  
+- 📧 Email: **rpartho787e@gmail.com**
+- !
+-🔗  https://www.linkedin.com/in/partho-roy-232386392/
 
 ---
 
