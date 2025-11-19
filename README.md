@@ -1,3 +1,12 @@
+
+<div align="center">
+
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C73755&width=435&lines=MERN+Stack+Developer)](https://git.io/typing-svg)
+</div>
+
+
+
 ## 👋 About Me
 
 Hi! I'm **Partho Dev Roy**, a passionate **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
