@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Partho Dev Roy**, a passionate **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
+Hi! I'm **Partho Dev Roy**, a passionate **Full Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
 I enjoy turning ideas into real products and solving problems through clean code and modern JavaScript technologies.
 
 I believe in **continuous learning** — whether it's exploring new tools, improving code quality, or sharing knowledge with others.  
