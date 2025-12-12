@@ -35,12 +35,15 @@ I also enjoy writing articles, teaching what I've learned, and helping developer
 
   <tr>
     <td><b>Frontend Technologies</b></td>
-   <td style="display:flex; gap:8px; flex-wrap: wrap;">
+ 
+<td style="display:flex; gap:8px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
 </td>
+
 
   </tr>
 
@@ -96,8 +99,7 @@ I also enjoy writing articles, teaching what I've learned, and helping developer
 ## 🌐 **Connect With Me**
 - 📧 Email: **rpartho787@gmail.com**
 - !
--🔗  https://www.linkedin.com/in/partho-roy-232386392/
-
+-🔗 (http://bd.linkedin.com/in/partho-roy10566)
 ---
 
 Thanks for visiting my profile! ⭐  
