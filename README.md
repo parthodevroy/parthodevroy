@@ -149,11 +149,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parthodevroy&label=Profile%20Views&color=6366F1&style=for-the-badge)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/parthodevroy?style=for-the-badge&color=6366F1&labelColor=0D1117&label=Followers)
 
 <br/><br/>
 
-*⭐ If you find my work helpful, consider starring my repositories!*
+* If you find my work helpful, consider starring my repositories!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
